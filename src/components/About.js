@@ -12,31 +12,23 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-          ab illo inventore veritatis et quasi architecto beatae vitae dicta
-          sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-          aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos
-          qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-          dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed
-          quia non numquam eius modi tempora incidunt ut labore et dolore magnam
-          aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
-          exercitationem ullam corporis suscipit laboriosam.
+          I am a full-stack software developer specialized in web-based application development. Working knowledge and experience
+          in modern front-end technologies and back-end frameworks.
+          <br />
+          These days, my interest includes Distributed Systems, Software Design and Architecture. My long-term career goal is to become a hands-on Software Architect.
+          I am also keeping myself relatively busy with Master of Computer Science in Data Science program at the University of Illinois.
         </p>
         <div className="row">
           <div className="columns contact-details">
             <h2>Contact Details</h2>
             <p className="address">
-              <span>Jonathan Doe</span>
+              <span>Hieu Ngo</span>
               <br />
               <span>
-                1600 Amphitheatre Parkway
-                <br /> Mountain View, CA 94043 US
+                Edmonton, Alberta, Canada.
               </span>
               <br />
-              <span>(123)456-7890</span>
-              <br />
-              <span>anyone@website.com</span>
+              <span>hcngo91@gmail.com</span>
             </p>
           </div>
           <div className="columns download">
